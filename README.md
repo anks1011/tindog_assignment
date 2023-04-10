@@ -1,3 +1,3 @@
 TinDog Starting Files
 
-complete responsive website:-https://anks1011.github.io/TinDogs
+complete responsive website:- https://anks1011.github.io/tindog_assignment/
